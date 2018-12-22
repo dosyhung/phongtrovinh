@@ -1,0 +1,16 @@
+{
+    "name": "Guide",
+    "alias": "guide",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Guide\\Providers\\GuideServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}

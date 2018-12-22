@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.modal-footer a {
+    color: white !important;
+}
+.modal-footer,#example1 a {
+    color: white !important;
+}
+
+.modal-footer,#example1 a:hover {
+    color: white !important;
+}
+
+i.fa.fa-th {
+    color: white;
+    padding-top: 8px;
+    padding-right: 12px;
+    font-size: 25px;
+}
+
+.modal-title strong {
+    font-size:  16px;
+    font-weight:  600;
+    font-family:  segoe;
+}
+
+h4.modal-title {
+    /* font-size: 22px; */
+    top: 0px;
+    position:  absolute;
+}
+
+button.close {
+    position:  absolute;
+    right:  0px;
+    top: 0px;
+    color: white;
+    border: none !important;
+    background: none !important;
+    opacity: 1;
+}
+button.close:hover{
+    opacity: 1;
+    color:white;
+}
+.modal-footer {
+    border:  none !important;
+}
+
+.modal-body {
+    font-family:  segoe ui light;
+    border:  none !important;
+    font-size:  14px;
+    font-weight: 600;
+}
+
+button.btn.btn-primary {
+    border-radius:  0 !important;
+    background:  #ff6b6b;
+    border:  none;
+}
+
+button.btn.btn-default {
+    border-radius: 0 !important;
+    background: #feca57;
+    position:  absolute;
+    left: 15px;
+    color: white;
+}
+
+.modal-content {
+    border-radius: 0 !important;
+}
+.modal-header {
+    background: #00cec9;
+    color: white;
+    font-family:  segoe ui light;
+    border-radius: 0 !important;
+    position:  relative;
+    height: 40px !important;
+}
+
+
+.modal-dialog {
+    width:  300px !important;
+}
+
+.modal-dialog {
+    border:  none !important;
+}
